@@ -6,5 +6,6 @@
     <string name="cat">gato</string>
     <string name="dog">perro</string>
     <string name="textView_prompt">elige un animal:</string>
+    <string name="toastmessage">"Elegiste "</string>
 
 </resources>
